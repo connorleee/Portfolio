@@ -1,0 +1,62 @@
+html {
+    overflow-y: scroll;
+}
+
+h1, h2, h3, .navbar-brand{
+    font-family: 'Georgia', 'Times New Roman', Times, serif;
+}
+
+body{
+    background-image: url("../images/old_wall.png");
+}
+
+.image-label{
+    position: absolute;
+    bottom: 5px;
+}
+
+.bg-teal{
+    background-color: #4aaaa5;
+}
+
+.text-teal{
+    color: #4aaaa5;
+}
+
+.text-reg{
+    color: #777777;
+}
+
+.text-footer{
+    color: #cccccc;
+    font-size: .75rem;
+}
+
+.bg-main{
+    background-color: #ffffff;
+}
+
+.border-header{
+    border-color: #cccccc;
+}
+
+.bg-footer{
+    background-color: #666666;
+}
+
+.border-teal{
+    border-color: #4aaaa5;
+}
+
+.border-main{
+    border-color: #dddddd;
+}
+
+.border-footer{
+    border-width: 1rem 0rem 0rem 0rem;
+    border-style: solid; 
+}
+
+.hr-thickness{
+    border-top: .15rem solid rgba(0,0,0,.1);
+}
